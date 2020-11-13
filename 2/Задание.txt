@@ -1,0 +1,21 @@
+Страница 38, пункт 5.1 Само задание.
+Мой вариант: 2 вариант
+
+Не используют http
+
+Help:
+https://docs.python.org/3/howto/sockets.html
+
+---
+
+https://wiki.python.org/moin/TcpCommunication
+
+---
+
+https://habr.com/ru/company/alfa/blog/354728/
+
+---
+
+http://zetcode.com/python/socket/
+
+---
