@@ -1,14 +1,9 @@
-# Added by makiGroup
 .idea
-dataset
-test
 .ipynb_checkpoints
-docs/make.bat
-docs/Makefile
-.docx
-.doc
-.pdf
-.txt
+*.docx
+*.doc
+*.pdf
+*.txt
 
 
 
