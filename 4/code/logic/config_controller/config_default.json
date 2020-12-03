@@ -1,0 +1,9 @@
+{
+  "host": "smtp.gmail.com",
+  "send": {
+    "port": 587
+  },
+  "receive": {
+    "port": 995
+  }
+}
